@@ -28,6 +28,12 @@ body {
 img {
   width: 300px;
 }
+.circular--square {
+  border-radius: 70%;
+  width: auto;
+  height: 100%;
+}
+
 a {
   color: #FFE66D;
 }
