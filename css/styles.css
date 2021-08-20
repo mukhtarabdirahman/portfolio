@@ -27,7 +27,25 @@ body {
 }
 img {
   width: 300px;
- }
+}
+a {
+  color: #FFE66D;
+}
+ a:hover {
+  text-decoration: none;
+}
+ h1 {
+  font-size: 100px;
+  line-height: 1;
+}
+ h2 {
+  font-size: 45px;
+}
+ h1, h2 {
+  font-family: 'Caveat', cursive;
+  font-weight: 400;
+  margin: 0;
+}
  
  
 
